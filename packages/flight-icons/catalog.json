@@ -10234,6 +10234,24 @@
       "size": "16",
       "width": 16,
       "height": 16
+    },
+    {
+      "id": "555:244",
+      "fileName": "deckhouse-24",
+      "iconName": "deckhouse",
+      "description": "deckhouse",
+      "size": "24",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "id": "555:246",
+      "fileName": "deckhouse-16",
+      "iconName": "deckhouse",
+      "description": "deckhouse",
+      "size": "16",
+      "width": 16,
+      "height": 16
     }
   ]
 }
