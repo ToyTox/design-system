@@ -1,5 +1,5 @@
 {
-  "name": "@hashicorp/flight-icons",
+  "name": "@deckhouse/flight-icons",
   "version": "2.22.0",
   "description": "Flight: HashiCorp SVG icon set",
   "keywords": [

@@ -1,5 +1,5 @@
 {
-  "name": "@hashicorp/design-system-codemods",
+  "name": "@deckhouse/design-system-codemods",
   "description": "Helios Design System codemods",
   "version": "0.1.0",
   "scripts": {

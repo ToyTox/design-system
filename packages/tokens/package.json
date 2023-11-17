@@ -1,5 +1,5 @@
 {
-  "name": "@hashicorp/design-system-tokens",
+  "name": "@deckhouse/design-system-tokens",
   "version": "1.9.0",
   "description": "Helios Design Tokens",
   "keywords": [
