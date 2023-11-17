@@ -14,11 +14,11 @@ import { getCssForIconAnimation } from './getCssForIconAnimation';
 export async function generateBundleSVG({ config, catalog } : { config: ConfigData, catalog: AssetsCatalog }): Promise<void> {
 
     // remove the generated content from the destination folder
-    try {
-        await fs.emptyDir(`${config.mainFolder}/svg`)
-    } catch (err) {
-        console.error(err);
-    }
+    // try {
+    //     await fs.emptyDir(`${config.mainFolder}/svg`)
+    // } catch (err) {
+    //     console.error(err);
+    // }
 
     // used to store the icons names and generate an index file
     const allIcons = [];
